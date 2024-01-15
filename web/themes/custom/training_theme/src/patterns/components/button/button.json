@@ -1,6 +1,6 @@
 {
   "button": {
-    "text": "Hi, I'm a button",
+    "text": "Hi, I'm a button --test",
     "url": "",
     "modifier": ""
   }

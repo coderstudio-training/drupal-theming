@@ -4,7 +4,7 @@
 - Use the following .ddev/config.yaml
 
 ```bash
-name: drupaltraining
+name: drupal-theming
 type: drupal8
 docroot: web
 php_version: "7.3"
