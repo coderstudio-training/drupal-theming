@@ -52,6 +52,8 @@ Ensure Docker is running before proceeding.
 
 ```
 cd <repo>
+ddev config
+ddev start
 ```
 
 
